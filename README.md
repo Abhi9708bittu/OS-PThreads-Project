@@ -1,3 +1,3 @@
 # OS-PThreads-Project
 
-Group Project for Implemenation of Classical Synchronization Problems in Operating Systems
+Group Project for Implementation of Classical Synchronization Problems in Operating Systems
